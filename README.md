@@ -1,4 +1,3 @@
-
 # BTC Forecast Light
 
 Minimale App zur täglichen Einschätzung von Bitcoin-Kursbewegungen.
@@ -7,6 +6,7 @@ Minimale App zur täglichen Einschätzung von Bitcoin-Kursbewegungen.
 - Wahrscheinlichkeiten für BTC-Anstieg oder -Rückgang (24h)
 - Trendrichtung + Begründung durch GPT-4
 - Einfaches Streamlit UI
+- Beispielskript `daily_forecast.py` ruft aktuelle Kursdaten ab und nutzt GPT-4 für eine 1–3-Tage-Prognose
 
 ## 🚀 1-Klick-Deploy
 [![Deploy to Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/)
